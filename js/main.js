@@ -8,3 +8,5 @@
             toTop.classList.remove("active");
         }
     });
+
+    new WOW().init();
