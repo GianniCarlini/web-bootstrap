@@ -10530,3 +10530,17 @@ section#contact form#contactForm :-ms-input-placeholder {
 .box16 .social li:last-child a{margin-right:0}
 @media only screen and (max-width:990px){.box16{margin-bottom:30px}
 }
+
+/**-----------**/
+.wrimagecard{	
+    box-shadow: 12px 15px 20px 0px rgba(46,61,73,0.15);
+}
+.wrimagecard:hover{	
+  transform: scale(1.01);
+}
+.cardcontent{	
+  margin: 1.5rem;
+}
+.iconcard{
+  color: #1c7430;
+}
